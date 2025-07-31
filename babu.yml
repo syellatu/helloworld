@@ -10,3 +10,5 @@ spec:
   - port: 80          # The port that the service will expose inside the cluster
     targetPort: 80     # The port on the pod that the service will forward traffic to
     nodePort: 30007    # The port exposed on each node (use a port in the range 30000-32767)
+
+lets try to check git pull
